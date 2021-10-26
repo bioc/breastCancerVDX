@@ -1,7 +1,7 @@
 Package: breastCancerVDX
 Type: Package
 Title: Gene expression datasets published by Wang et al. [2005] and Minn et al. [2007] (VDX).
-Version: 1.31.0
+Version: 1.32.0
 Date: 2011-02-10
 Description: Gene expression data from a breast cancer study published by Wang et al. in 2005 and Minn et al. in 2007, provided as an eSet.
 biocViews: ExperimentData, Genome, Homo_sapiens_Data, CancerData, BreastCancerData, LungCancerData, MicroarrayData, OneChannelData, GEO
